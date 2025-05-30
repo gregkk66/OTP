@@ -1,1 +1,1 @@
-# OTP
+# OTP - encryption & decryption
